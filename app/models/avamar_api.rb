@@ -1,10 +1,5 @@
 class AvamarApi < ActiveRecord::Base
  
-gem 'rest_client'
-require 'rest-client'
-require 'json'
-require 'base64'
-
 username='admin'
 password='password'
 authheader='X-Concerto-Authorization'
