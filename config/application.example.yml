@@ -17,8 +17,8 @@
 # production:
 #   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
 #   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
-SENDGRID_USERNAME: Your_Username
-SENDGRID_PASSWORD: Your_Password
+SENDGRID_USERNAME: moekbedh
+SENDGRID_PASSWORD: app29483951@heroku.com
 DOMAIN_NAME: example.com
 ADMIN_NAME: First User
 ADMIN_EMAIL: user@example.com
