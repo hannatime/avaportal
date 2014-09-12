@@ -19,7 +19,7 @@ gem 'pg'
 gem 'sendgrid'
 gem 'simple_form'
 gem 'rest_client'
-
+gem 'rails_12factor', group: :production
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_20]
